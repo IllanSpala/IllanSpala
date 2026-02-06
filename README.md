@@ -19,7 +19,6 @@ I am a developer passionate about the intersection of **music and technology**. 
   
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Postman(API)" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-  <img align="center" alt="JUCE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/juce/juce-original.svg">
 </div>
 
 ---
